@@ -116,6 +116,8 @@ ORDER BY Total_Orders ASC;
 2. Run the SQL queries in `pizza_sales_queries.sql` to generate the necessary aggregated data.
    
 4. Open the Power BI dashboard file `PowerBI/PizzaSalesDashboard.pbix` to explore the interactive visualizations.
+![Pizza Sales Report - Fri](https://github.com/user-attachments/assets/6bf2c226-7184-4392-a72d-9503caca479e)
+
 ![Pizza Sales Report - Best - Worst- Saller](https://github.com/user-attachments/assets/4443c76f-0d95-476b-98c0-52a165917d7b)
 
 ## Contact
